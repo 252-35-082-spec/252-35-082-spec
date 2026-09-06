@@ -61,12 +61,10 @@ Modular hospital management system built in C for admin, doctor, pharmacy, and r
 
 <br/>
 
-<img width="49%" src="https://YOUR-INSTANCE.vercel.app/api?username=252-35-082-spec&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="stats" />
-<img width="49%" src="https://YOUR-INSTANCE.vercel.app/api/top-langs/?username=252-35-082-spec&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="top langs" />
+<img width="49%" src="https://github-readme-stats-victor-93d6.vercel.app/api?username=252-35-082-spec&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="stats" />
+<img width="49%" src="https://github-readme-stats-victor-93d6.vercel.app/api/top-langs/?username=252-35-082-spec&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="top langs" />
 
 </div>
-
-> ⚠️ উপরের দুইটা কার্ডের `YOUR-INSTANCE` জায়গায় তোমার নিজের Vercel URL বসাও (Phase 2 দেখো guide-এ)।
 
 ---
 
@@ -101,4 +99,3 @@ Modular hospital management system built in C for admin, doctor, pharmacy, and r
 </a>
 
 </div>
-
