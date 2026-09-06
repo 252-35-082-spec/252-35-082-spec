@@ -78,8 +78,6 @@ Modular hospital management system built in C for admin, doctor, pharmacy, and r
 </picture>
 </div>
 
-> ⚠️ Snake workflow (`snake.yml`) Action run হয়ে `output` ব্রাঞ্চ তৈরি হওয়ার আগে এই সেকশন broken image দেখাবে — Phase 3 আগে শেষ করো।
-
 ---
 
 ### 📫 Connect With Me
@@ -99,3 +97,4 @@ Modular hospital management system built in C for admin, doctor, pharmacy, and r
 </a>
 
 </div>
+
